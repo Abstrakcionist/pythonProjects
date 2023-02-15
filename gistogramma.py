@@ -44,4 +44,3 @@ dict, maximum = symbols_counter(input_string, symbols)
 arr = do_horizontal(dict, maximum)
 gistogramma = do_vertical(arr, symbols)
 print(gistogramma)
-
